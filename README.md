@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # web-store-frontend
 
 This repository contains code of a learning project called: "Web store frontend".
